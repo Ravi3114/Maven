@@ -1,0 +1,5 @@
+springPackage\entity\User.class
+springPackage\Application.class
+springPackage\service\UserService.class
+springPackage\web\controller\UserController.class
+springPackage\repo\UserRepository.class
